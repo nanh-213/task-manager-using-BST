@@ -9,7 +9,7 @@ A simple command-line Task Manager application written in **C**. It uses a **Bin
 - **Delete Task:** Remove a task by entering its due date and title.
 - **Filter:** Filter tasks by tags (Study, Home, Personal).
 
-## 🛠️ How to Run
+## How to Run
 
 1. Download the `taskManager.c` file.
 2. Compile the code using a C compiler (e.g., GCC):
